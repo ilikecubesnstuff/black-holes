@@ -1,0 +1,101 @@
+body {
+    background: url(http://www.pbs.org/wgbh/nova/next/wp-content/uploads/2015/07/Black_Hole_Milkyway.jpg);
+    background-size: cover;
+}
+
+#page {
+    background: rgb(254, 153, 0);
+}
+
+.control {
+    background: rgb(240, 160, 0);
+}
+
+.bcover {
+    background: rgb(209, 125, 0)
+}
+
+.subsect {
+    background: rgba(255, 153, 0, 0.8);
+    height: 35%;
+    width: 33%;
+}
+
+#schwarz {
+    position: fixed;
+    top: 26%;
+}
+
+#reiss {
+    position: fixed;
+    top: 26%;
+    left: 34%;
+}
+
+#kerr {
+    position: fixed;
+    top: 62.5%;
+}
+
+#kernew {
+    position: fixed;
+    top: 62.5%;
+    left: 34%;
+}
+
+#mass {
+    opacity: 0.9;
+    height: 78%;
+    width: 31.5%;
+    position: fixed;
+    top: 24.82%;
+    left: 68.5%;
+}
+
+.mass {
+    background: rgba(255, 135, 0, 0.8);
+    height: 20%;
+    width: 29%;
+}
+
+#stellar {
+    border-radius: 20px;
+    position: fixed;
+    top: 34%;
+    left: 69%;
+}
+
+#inter {
+    border-radius: 20px;
+    position: fixed;
+    top: 55%;
+    left: 69%;
+}
+
+#super {
+    border-radius: 20px;
+    position: fixed;
+    top: 76%;
+    left: 69%;
+}
+
+img {
+    border-bottom-left-radius: 20px;
+    height: 78.7%;
+    position: relative;
+    bottom: 0px;
+}
+
+h2 {
+    font-size: 3em;
+    text-align: center;
+}
+
+a p {
+    font-size: 2.5em;
+    margin: 1% 0% 0% 57%;
+}
+
+.content a {
+    color: darkorange;
+}

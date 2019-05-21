@@ -1,0 +1,133 @@
+* {
+    color: black;
+    font-family: Rockwell, "Courier Bold", Courier, serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1 {
+    background: #252525;
+    color: #9a9a9a;
+    font: 500% Rockwell, "Courier Bold", Courier, serif;
+    opacity: 0.8;
+    padding: 0%;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+
+#backbutton {
+    background: transparent;
+    color: #9a9a9a;
+    width: 15%;
+    position: fixed;
+    height: 12.5%;
+    top: 0px;
+}
+
+#backbutton:hover {
+    background: #303030;
+    opacity: 1;
+}
+
+#page {
+    color: black;
+    margin: 0px 0px 8px 0px;
+    position: fixed;
+    top: 12.4%;
+}
+
+.head {
+    opacity: 0.8;
+}
+
+a {
+    border-radius: 20px;
+    opacity: 1;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+.back-btn {
+    color: black;
+    opacity: 1;
+    height: 12.5%;
+    width: 15%;
+    position: fixed;
+    top: 12.4%;
+    left: 0%;
+}
+
+#back-page {
+    font-size: 2.5em;
+    text-align: center;
+    line-height: 230%;
+}
+
+#back-btn:hover {
+    opacity: 0;
+}
+
+.control {
+    color: black;
+    opacity: 1;
+    height: 12.5%;
+    width: 15%;
+    position: fixed;
+    top: 12.4%;
+}
+
+.left {
+    left: 0%;
+}
+
+.right {
+    right: 0%;
+}
+
+.page-roll {
+    font-size: 2.5em;
+    text-align: center;
+    line-height: 230%;
+}
+
+.bcover:hover {
+    opacity: 0;
+}
+
+.subsect {
+    margin: 8px;
+}
+
+.content {
+    background-color: white;
+    margin: 0px;
+    overflow: auto;
+    overflow-x: hidden;
+    padding: 0px;
+    height: 35.6em;
+    width: 80%;
+    position: fixed;
+    left: 10%;
+    top: 24.9%;
+}
+
+.content p {
+    margin: 0px;
+    padding: 10px;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.content a {
+    text-decoration: none;
+}
+
+.content a:hover {
+    text-decoration: underline;
+}

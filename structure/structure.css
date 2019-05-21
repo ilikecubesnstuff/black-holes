@@ -1,0 +1,70 @@
+body {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/3/37/Artist%E2%80%99s_illustration_of_galaxy_with_jets_from_a_supermassive_black_hole.jpg);
+    background-size: cover;
+}
+
+#page {
+    background: rgb(255, 0, 0);
+}
+
+.control {
+    background: rgb(255, 0, 0);
+}
+
+.bcover {
+    background: rgb(210, 0, 0);
+}
+
+.subsect {
+    background: rgba(255, 0, 0, 0.8);
+    height: 35%;
+    width: 49%;
+}
+
+#sing {
+    position: fixed;
+    top: 26%;
+}
+
+#evho {
+    position: fixed;
+    top: 26%;
+    left: 50%;
+}
+
+#ergo {
+    position: fixed;
+    top: 62.5%;
+}
+
+#acdi {
+    position: fixed;
+    top: 62.5%;
+    left: 50%;
+}
+
+img {
+    border-radius: 20px;
+    opacity: 0.9;
+    height: 100%;
+}
+
+h2 {
+    font-size: 3em;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 150%;
+    margin: 2% 0% 0% 38%;
+}
+
+.right p {
+    margin: 2% 38% 0% 0%;
+    text-align: right;
+}
+
+.content a {
+    color: red;
+}

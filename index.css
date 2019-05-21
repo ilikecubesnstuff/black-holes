@@ -1,0 +1,81 @@
+* {
+    font-family: Rockwell, "Courier Bold", Courier, serif;
+    margin: 0px;
+    color: black;
+}
+
+body {
+    background: url(http://i.huffpost.com/gen/1370722/images/o-BLACK-HOLE-facebook.jpg);
+    background-size: cover;
+}
+
+#about {
+    background: transparent;
+    width: 17%;
+    position: fixed;
+    height: 12.4%;
+    top: 0px;
+    right:0px;
+}
+
+#about:hover {
+    background: #303030;
+    opacity: 1;
+}
+
+h1 {
+    text-align: center;
+    background: #252525;
+    color: #9a9a9a;
+    font: 500% Rockwell, "Courier Bold", Courier, serif;
+    margin: 0% 0% 0.4% 0%;
+    padding: 0%;
+}
+
+a {
+    border-radius: 20px;
+    height: 84%;
+    width: 33%;
+    margin: 8px;
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 400%;    
+    text-align: center;
+}
+
+#stru {
+    position: fixed;
+    background: rgb(255, 0, 0);
+    display: inline-block;
+    height: 41%;
+    width: 65%;
+    top: 13%;
+}
+
+#clas {
+    position: fixed;
+    background: rgb(255, 153, 0);
+    display: block;
+    height: 41%;
+    width: 65%;
+    top: 56%;
+}
+
+#gere {
+    position: fixed;
+    background: rgb(0, 0, 255);
+    display: inline-block;
+    left: 66%;
+    top: 13%;
+}
+
+p {
+    font-size: 150%;
+}
+
+a:hover {
+    opacity: 0.64;
+}
